@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/shims-vue.d.ts","./src/vite-env.d.ts","./src/api/client.ts","./src/api/tasks.ts","./src/types/task.ts","./src/App.vue"],"version":"5.7.3"}
